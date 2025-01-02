@@ -1,6 +1,6 @@
 
 # Blob Player
-![blob](https://i.imgur.com/uxPvDst.png)]
+![blob](https://i.imgur.com/uxPvDst.png)
 Blob Player is a lightweight PHP-based video player designed to bypass CORS restrictions by embedding videos as blobs.
 
 ---
