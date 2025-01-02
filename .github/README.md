@@ -1,16 +1,17 @@
+<p align="center">
+  <img src="https://i.imgur.com/uxPvDst.png" width="500px"/>
+</p>
 
-# Blob Player
-![blob](https://i.imgur.com/uxPvDst.png)
 Blob Player is a lightweight PHP-based video player designed to bypass CORS restrictions by embedding videos as blobs.
 
 ---
 
 ## Documentation languages
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](#) 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](#) 
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](#) 
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](#) 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MestreTM/Blob_Player/blob/main/.github/README.md) 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MestreTM/Blob_Player/blob/main/.github/README.pt-br.md) 
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MestreTM/Blob_Player/blob/main/.github/README.es.md) 
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/MestreTM/Blob_Player/blob/main/.github/README.ru.md) 
 
 English | Português | Español | Русский
 
