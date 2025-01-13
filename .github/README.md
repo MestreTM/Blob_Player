@@ -4,6 +4,8 @@
 
 Blob Player is a lightweight PHP-based video player designed to bypass CORS restrictions by embedding videos as blobs.
 
+**-> Maybe it is not compatible with HLS. test before opening an isue!**
+
 ---
 
 ## Documentation languages
